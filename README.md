@@ -1,7 +1,7 @@
-# Who wish it?
+# Who wishes it?
 People can "wish" products on eBay. We want to create a text that would be displayed under such products.  
 
-Implement the function `displayWishes([string] | String) -> String`, which can take an **array of strings** or a **single string separated by comma and space** as input, containing the names of people who wish a product. It must return a string as shown in this example:
+To do so, implement the function `displayWishes([string] | String) -> String`, which can take an **array of strings** or a **single string separated by comma and space** as input, containing the names of people who wish a product. It must return a string as shown in this example:
 
 ```javascript
 displayWishes([]) // must return "no wishes for this product"
